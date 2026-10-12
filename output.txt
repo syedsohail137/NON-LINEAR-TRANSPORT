@@ -1,0 +1,14 @@
+==================================================
+      SELF-CALIBRATING TRANSPORT ENGINE (C++)     
+==================================================
+Extracted System Parameters Matrix:
+  Current Spot (S0):             202.500000
+  Historical OHLC Vol (Annual):  17.814319 %
+  Extracted Risk-Free Rate (r):   2.358811 %
+  Extracted Implied Drift (d):   -0.930576 %
+  Extracted ATM Implied Vol:     21.488929 %
+
+Pipeline Output Targets:
+  Robust Cost of Transport (V*): 200.378688
+  Implied T' Distortion Ratio:   1.082000
+==================================================
