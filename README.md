@@ -4,7 +4,10 @@
   <h2 align="center">🧮 Quantitative Transport & Volatility Engine</h2>
 
   <p align="center">
-    A self-calibrating C++ engine mapping asset variance matrices to option surface distributions using Garman-Klass volatility, dual OLS optimizations, and empirical transport grids.
+    A self-calibrating C++ engine mapping asset variance matrices to option surface distributions using Garman-Klass volatility, dual OLS optimizations, and empirical transport grids.This document provides a comprehensive structural breakdown of the quantitative financial algorithm
+implemented in the C++ framework. The system extracts underlying risk parameters from combined historical
+spot distributions and real-time option chain matrices. It then calculates the empirical risk-neutral probability
+density to evaluate non-linear structural distortion against classical log-normal asset distributions
     <br />
     <br />
     <a href="#-core-components">Project Bundle</a>
